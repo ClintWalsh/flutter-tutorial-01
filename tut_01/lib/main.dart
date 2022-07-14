@@ -110,7 +110,7 @@ void _showWelcomeScreen() {
                     : Colors.blue;
               }),
             ),
-            onPressed: _showWelcomScreen,
+            onPressed: _showWelcomeScreen,
             child: const Text('Sign up'),
           ),
         ],
